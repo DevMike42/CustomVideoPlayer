@@ -7,3 +7,5 @@ A simple embeded video element with customized controls using Vanilla JavaScript
 * **HTML5**
 * **CSS3**
 * **JavaScript**
+
+### [Check it out!](https://blissful-poitras-53b75b.netlify.app/)
